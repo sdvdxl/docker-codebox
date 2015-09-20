@@ -1,5 +1,5 @@
 # download the base centos image
-FROM dockerfile/nodejs
+FROM nodejs
 
 # set the maintainer
 MAINTAINER Aaron Feng "aaron@forty9ten.com"
